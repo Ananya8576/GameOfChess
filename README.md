@@ -1,5 +1,7 @@
 # GameOfChess
 
+Assignment under Prof. Darren for the module: CS3243
+
 We implement a 7 by 7 Chess board with 14 pieces: one King, one Queen, one Rook, one Bishop, one Knight, one Empress, one Princess, two Ferz and five Pawns
 
 We play from the White player's side and try to win/draw maximum games
